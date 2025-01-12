@@ -20,14 +20,14 @@ git clone https://github.com/yourusername/rock-paper-scissors-kotlin.git
 cd rock-paper-scissors-kotlin
 ```
 
-## 🛠️ Requirements
+### 🛠️ Requirements
 - A code editor like IntelliJ IDEA or a terminal.
 - Kotlin: Make sure Kotlin is installed. You can check by running:
 ```bash
 kotlin -version
 ```
 
-## ▶️ How to Play
+### ▶️ How to Play
 1.Run the program:
 ```bash
 kotlinc RockPaperScissors.kt -include-runtime -d RockPaperScissors.jar
